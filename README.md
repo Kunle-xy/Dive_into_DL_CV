@@ -20,3 +20,11 @@ click on the link to Google colab
 `pip install fastapi uvicorn aiofiles jinja2 `
 - `uvicorn` is a minimal low-level serve/application interface for setting up APIs
 - `aiofiles` eanbles server to work asynchronously with requests
+
+2. cd to the folder that contains script.py and server.py
+run on terminal: 
+-`uvicorn server:app`
+
+3. To fecth predictions we must POST our image data
+run on terminal:
+- 'curl -X POST "http://127.0.0.1:8000/predict" -H "accept: application/json" -H "Content-Type: multipart/form-data" -F "file=@/path to your image.png;type=image/png"`
