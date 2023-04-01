@@ -1,6 +1,12 @@
 # dive_into_dl_cv
 
 
+## Training
+
+click on the link to Google colab
+`https://colab.research.google.com/drive/1KmYFLo6YWWOVfHowPvayFFCYdSvMCwzZ`
+
+
 
 
 
