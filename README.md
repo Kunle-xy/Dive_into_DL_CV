@@ -1,5 +1,6 @@
 ## Instructions
 
+`pip install -r requirements.txt`
 
 ## Training
 
