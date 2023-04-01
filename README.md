@@ -4,7 +4,7 @@
 ## Training
 
 click on the link to Google colab
-`https://colab.research.google.com/drive/1KmYFLo6YWWOVfHowPvayFFCYdSvMCwzZ`
+[googleColab: ]([https://www.genome.gov/](https://colab.research.google.com/drive/1KmYFLo6YWWOVfHowPvayFFCYdSvMCwzZ))
 
 
 
