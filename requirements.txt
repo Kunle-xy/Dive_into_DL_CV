@@ -1,0 +1,7 @@
+torch-snippets
+torchvision
+fastapi
+uvicorn
+aiofiles
+jinja2
+python-multipart
