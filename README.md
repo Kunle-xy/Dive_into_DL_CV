@@ -1,6 +1,7 @@
 ## Instructions
 
-`pip install -r requirements.txt`
+##intall all dependencies
+- `pip install -r requirements.txt`
 
 ## Training
 
