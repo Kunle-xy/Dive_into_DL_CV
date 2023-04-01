@@ -4,7 +4,7 @@
 ## Training
 
 click on the link to Google colab
-[googleColab: ](https://colab.research.google.com/drive/1KmYFLo6YWWOVfHowPvayFFCYdSvMCwzZ)
+[Link: ](https://colab.research.google.com/drive/1KmYFLo6YWWOVfHowPvayFFCYdSvMCwzZ)
 
 
 
