@@ -2,6 +2,8 @@
 
 ## Instructions
 
+This model uses transfer learning architecture, VGG16, to identify and predict gender and age of a person in an image.
+
 ## Intall all dependencies
 - `pip install -r requirements.txt`
 
