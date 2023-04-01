@@ -1,3 +1,6 @@
+'''
+Author: Kunle Oguntoye
+'''
 import os, io
 from script import MODEL, ageGenderClassifier
 from PIL import Image

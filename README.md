@@ -1,6 +1,6 @@
 ## Instructions
 
-## intall all dependencies
+## Intall all dependencies
 - `pip install -r requirements.txt`
 
 ## Training
@@ -24,7 +24,7 @@ click on the link to Google colab
 - `aiofiles` eanbles server to work asynchronously with requests
 
 2. cd to the folder that contains script.py and server.py
-run on terminal: 
+run on terminal:
 -`uvicorn server:app`
 
 3. To fecth predictions we must POST our image data
