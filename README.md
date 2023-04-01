@@ -1,4 +1,4 @@
-## Deploying trained model on server using Fast-API
+## Deploying trained  DL model using Fast-API
 
 ## Instructions
 
