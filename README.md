@@ -34,3 +34,7 @@ run on terminal:
 3. To fetch predictions:
 run on terminal:
 - `curl -X POST "http://127.0.0.1:8000/predict" -H "accept: application/json" -H "Content-Type: multipart/form-data" -F "file=@/path to your image.png;type=image/png"`
+
+
+## References:
+- Modern Computer Vision with Pytorch ( Ayyadevara & Reddy 2020)
