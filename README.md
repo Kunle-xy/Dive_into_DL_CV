@@ -29,7 +29,7 @@ click on the link to Google colab
 
 2. cd to the folder that contains script.py and server.py
 run on terminal:
--`uvicorn server:app`
+-`uvicorn server:app--reload`
 
 3. To fetch predictions:
 run on terminal:

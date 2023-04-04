@@ -1,8 +1,10 @@
 '''
 Author: Kunle Oguntoye
+4th April, 2023
 '''
 import os, io
 from script import MODEL, ageGenderClassifier
+import uvicorn
 from PIL import Image
 from fastapi import FastAPI, Request, File, UploadFile
 from fastapi.staticfiles import StaticFiles
@@ -16,7 +18,9 @@ app = FastAPI()
 # app.mount("/file", StaticFiles(directory="file"), name="file")
 # templates = Jinja2Templates(directory="templates")
 
-# @app.get("/")
+@app.get("/")
+def index():
+    return {'message': 'Hello, YOU'}
 # async def read_item(request: Request):
 #     return templates.TemplateResponse("home.html", {"request": request})
 
